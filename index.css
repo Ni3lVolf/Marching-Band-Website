@@ -1,0 +1,56 @@
+h2 {
+    color: goldenrod;
+    text-align: center;
+}
+ul {
+    background-color: Crimson; 
+    text-color: goldenrod;
+    text-align: center;
+    padding: 20px;
+}
+ul{
+    color: goldenrod;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin: 20px 0;
+    list-style: none;
+}
+footer {
+    Background-color: crimson;
+    text-Color: goldenrod;
+    text-align: centered;
+    padding: 30px 10px;
+}
+footer a {
+    color:goldenrod;
+    text-decoration: underline;
+}
+.social-icons { 
+    disaplay: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 10px 0;
+}
+.social icons a {
+    width: 30px;
+    height: auto;
+}
+.calendar-zone {
+    color : goldenrod;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    border-radius: 8px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center !important;
+}
+.calendar-zone iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px goldenrod;
+}
